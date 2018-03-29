@@ -1,6 +1,6 @@
-package mergesort;
+package MergeSort;
 
-import mergesort.Overlap;
+import MergeSort.Overlap;
 
 public class MainClass 
 {
