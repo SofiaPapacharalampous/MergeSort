@@ -1,5 +1,5 @@
-package mergesort;
-import mergesort.MergeSort;
+package MergeSort;
+import MergeSort.MergeSort;
 public class Overlap 
 {
 	public int overlap(int[][] a)
